@@ -70,7 +70,11 @@ footer ul li{
 a{ 
  text-decoration: none; 
 }  
-
+.card-img-overlay{
+  display: block;
+  margin: auto 0;
+  padding: 40px 50px;
+}
 
 
  
